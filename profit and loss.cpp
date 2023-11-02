@@ -11,3 +11,4 @@ printf("loss seller beared = %f",a-b);
 else
 printf("profit gained by seller = %f",b-a);
 }
+/*hello*/
